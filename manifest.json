@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "updatedAt": "2025-12-04T00:00:00Z",
+    "items": [
+        {
+            "id": "1",
+            "type": "image",
+            "remote": "https://raw.githubusercontent.com/you/repo/main/assets/images/hero.png"
+        },
+        {
+            "id": "2",
+            "type": "json",
+            "remote": "https://raw.githubusercontent.com/you/repo/main/assets/configs/config.json"
+        }
+    ]
+}
